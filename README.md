@@ -1,2 +1,3 @@
 # README #
-# I like to use Git because it's fun
+# Git is awesome!
+# I am making changes directly in the GitHub.com
